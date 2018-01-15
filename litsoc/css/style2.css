@@ -1,0 +1,20 @@
+.navbar-custom{
+	background-color: black;
+}
+.navbar a{
+	color:white;
+	font-weight:bold;
+}
+.nav li  a:hover{
+	background:orange
+} 
+body{
+	background-color: lightgrey;
+}
+.block1 body{
+	background-color: white;
+}
+.thumbnail img {
+	height:150px;
+	width: 500px;
+}

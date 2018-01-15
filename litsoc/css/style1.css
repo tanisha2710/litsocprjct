@@ -1,0 +1,38 @@
+.navbar-custom{
+	background-color: black;
+}
+.navbar a{
+	color:white;
+	font-weight:bold;
+}
+header{
+	height:450px;
+	color:black;
+	font-weight: bold;
+	padding:150px 550px;
+	
+}
+.nav li  a:hover{
+	background:orange
+} 
+.block-a{
+	font-size:20px;
+	margin: 20px 0px;
+	border-top:1px solid grey;
+	padding: 5px 0px;
+
+
+}
+.block-b{
+	font-size:20px;
+	border-bottom:1px solid grey;
+	margin: 10px 0px;
+	padding: 5px 0px;
+	background-color: grey;
+
+
+}
+.thumbnail img {
+	height:250px;
+	width: 500px;
+}
